@@ -20,7 +20,7 @@ site:
     hide_footer_links: true
     # favicon: favicon.ico
     logo: content/other/site_logo.png
-    logo_text: "Prénom NOM"
+    logo_text: "Zoé THOMAS"
   nav: []
   parts: 
     footer: []
