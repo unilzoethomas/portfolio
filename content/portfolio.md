@@ -24,9 +24,9 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 | CAMPPETRMAGM-4 | Le rapport rendu | cours obligatoire | Document docx
-| Compétence 2  | CAMPSTRASEDI-3 | Le rapport rendu | cours obligatoire | Document docx
-|  Compétence 3 | PETRMAGMAVA-2 | Utilisation de XMapsTools | cours obligatoire | XMapsTools
+| CAMPPETRMAGM-4 | Le rapport rendu | cours obligatoire | Document docx |
+| CAMPSTRASEDI-3  | Le rapport rendu | cours obligatoire | Document docx | 
+| PETRMAGMAVA-2 | Utilisation de XMapsTools | ours obligatoire | XMapsTools | 
 |  Compétence 4 (hors cursus) |  |  |  |
 ---
 
