@@ -19,7 +19,7 @@ site:
     folders: true
     hide_footer_links: true
     # favicon: favicon.ico
-    logo: content/img/images-1.jpeg
+    logo: content/other/images.jpeg
     logo_text: "Zoé THOMAS "
   nav: []
   parts: 
