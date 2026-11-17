@@ -26,8 +26,8 @@
 |---|---|---|---|
 | CAMPPETRMAGM-4 | Le rapport rendu | cours obligatoire | Document docx |
 | CAMPSTRASEDI-3  | Le rapport rendu | cours obligatoire | Document docx | 
-| PETRMAGMAVA-2 | Utilisation de XMapsTools | ours obligatoire | XMapsTools | 
-|  Compétence 4 (hors cursus) |  |  |  |
+| PETRMAGMAVA-2 | Utilisation de XMapsTools | cours obligatoire | XMapsTools | 
+|  GESTEAU-3 (hors cursus) | les notes détaillées du cours | cours pris en option | Document docx |
 ---
 
 *Arbre des connaissances, état au 21 octobre 2026 · [gse-sondage.unil.ch/quiz-rentree-fgse/arbre/](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)*
